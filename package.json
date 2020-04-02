@@ -1,0 +1,20 @@
+{
+  "name": "mb-utils-dan-rc",
+  "version": "1.0.0",
+  "description": "Pacote para formatação de conversão de CEP funcaoCEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danivaldosousa/md-util-cep.git"
+  },
+  "keywords": ["brasil", "cep"],
+  "author": "DAnivaldoSousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danivaldosousa/md-util-cep/issues"
+  },
+  "homepage": "https://github.com/danivaldosousa/md-util-cep#readme"
+}
